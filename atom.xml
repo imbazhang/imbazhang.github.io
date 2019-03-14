@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="imbazhang.github.io/"/>
-  <updated>2019-03-13T11:08:41.887Z</updated>
+  <updated>2019-03-14T13:15:28.805Z</updated>
   <id>imbazhang.github.io/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="imbazhang.github.io/2019/03/13/my-test-site/"/>
     <id>imbazhang.github.io/2019/03/13/my-test-site/</id>
     <published>2019-03-13T11:08:41.000Z</published>
-    <updated>2019-03-13T11:08:41.887Z</updated>
+    <updated>2019-03-14T13:15:28.805Z</updated>
+    
+    <content type="html"><![CDATA[<p>把旧的博客拆了重新，在Hexo框架下重新搭了个新的。</p><p>目前使用的是 <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">inidgo</a> 主题。</p><p>总之还是<del>贯彻摸鱼宗旨</del>，不过确实该有规律的写写东西了。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;把旧的博客拆了重新，在Hexo框架下重新搭了个新的。&lt;/p&gt;
+&lt;p&gt;目前使用的是 &lt;a href=&quot;https://github.com/yscoder/hexo-theme-indigo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;inidgo&lt;/a&gt;
+      
     
     </summary>
     
